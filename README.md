@@ -9,11 +9,11 @@
 Neste projeto em React eu aprendi a como mexer com uma API.
 <br>
 <h2>Pré-requisitos</h2>
-1-Instale o VScode na sua máquina.
-2-Instale o pacote Node.
-3-Instale o axios"npm Install axios"
-4-Instale o reactstrap "npm install reactstrap react react-dom" depois 
-"npm install --save bootstrap", entao coloque no index.js 
+1-Instale o VScode na sua máquina.<br/>
+2-Instale o pacote Node.<br/>
+3-Instale o axios"npm Install axios"<br/>
+4-Instale o reactstrap "npm install reactstrap react react-dom" depois<br/> 
+"npm install --save bootstrap", entao coloque no index.js <br/>
 "import 'bootstrap/dist/css/bootstrap.min.css';"
 <h2>Autoria</h2>
 Matheus Pfeifer<br>
